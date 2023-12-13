@@ -2,23 +2,16 @@
 Bu proje, Angular 16 ve .NET 8 kullanılarak geliştirilmiş bir web TODO APP içermektedir.
 
 Teknolojiler
-Frontend:
-Angular 16
-TypeScript
+Frontend: Angular 16  -- TypeScript
 
-Backend:
-.NET 8
-C#
-MSSql
+Backend: .NET 8 -- C# -- MSSql
 
 
 Proje Kurulumu
-Gereksinimler:
-Node.js ve npm yüklü olmalıdır.
-.NET 8 SDK yüklü olmalıdır.
-MSSql sunucusu kullanılacaksa, bağlantı için gerekli bilgilerin bulunduğu bir yapılandırma dosyası oluşturulmalıdır.
-Frontend Kurulumu:
+Gereksinimler: Node.js ve npm yüklü olmalıdır. --  .NET 8 SDK yüklü olmalıdır. -- MSSql sunucusu kullanılacaksa, bağlantı için gerekli bilgilerin bulunduğu bir yapılandırma dosyası oluşturulmalıdır.  
 
+
+Frontend Kurulumu:
 Copy code
 cd ./TodoApp.UI/
 npm install
