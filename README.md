@@ -1,7 +1,7 @@
 # TodoAPP
 Bu proje, Angular 16 ve .NET 8 kullanılarak geliştirilmiş bir web TODO APP içermektedir.
 
-<img align="right" alt="Coder GIF" height="350" width="450" src="https://example.com/path/to/your/image.gif" />
+<img align="right" alt="Coder GIF" height="350" width="450" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*sikb5rueDFS3UEbz.gif" />
 
 
 Teknolojiler
