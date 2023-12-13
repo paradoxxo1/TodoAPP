@@ -1,6 +1,10 @@
 # TodoAPP
 Bu proje, Angular 16 ve .NET 8 kullanılarak geliştirilmiş bir web TODO APP içermektedir.
 
+<img align="right" alt="Coder GIF" height=350 width=450 src="https://www.theodysseyonline.com/media-library/image.gif" />
+
+
+
 Teknolojiler
 Frontend: Angular 16  -- TypeScript
 
